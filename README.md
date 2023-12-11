@@ -5,10 +5,12 @@
 
 - 📫 How to reach me **veronica@fadnes.me**
 
+- ⚡ Fun fact **I love everything thats related to videogames**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@vikkionica" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vikkionica" height="30" width="40" /></a>
-<a href="https://instagram.com/@vikkionica" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@vikkionica" height="30" width="40" /></a>
+<a href="https://twitter.com/vikkionica" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vikkionica" height="30" width="40" /></a>
+<a href="https://instagram.com/vikkionica" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vikkionica" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
