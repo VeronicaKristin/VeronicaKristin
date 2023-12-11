@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **veronica@fadnes.me**
 
-- ⚡ Fun fact **I love everything thats related to videogames**
+- ⚡ Fun fact **I love everything that has to do with videogames and anime**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
